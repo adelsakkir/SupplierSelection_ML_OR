@@ -7,7 +7,7 @@ A hybridized approach in supplier selection through classification and mixed int
 # ROC Curves for Model Selection
 ![image](https://github.com/adelsakkir/SupplierSelection_ML_OR/assets/63802234/8ccb05a5-0494-4b7e-9be8-6309aa3763c8)
 
-# Default Porbability
+# Default Probability
 ![image](https://github.com/adelsakkir/SupplierSelection_ML_OR/assets/63802234/53db0370-2a5c-4946-92f9-49974e33355a)
 
 # Sensitivity Analysis
